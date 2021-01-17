@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td width="100%"><b>&nbsp;Current Date and time is:&nbsp; <font color="#FF0000">
-<%= new java.util.Date() %>
+//<%= new java.util.Date() %>
 </font></b></td>
 </tr>
 </table>
